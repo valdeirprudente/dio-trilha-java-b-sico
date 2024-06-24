@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "bin"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "commentTranslate.hover.enabled": false,
+    "jdk.advanced.disable.nbjavac": false
+}
